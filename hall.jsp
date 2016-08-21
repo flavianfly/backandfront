@@ -60,7 +60,7 @@
      
                <li role="presentation"><a href="hall">hall</a></li>
                <li role="presentation"><a href="bedroom">bedroom</a></li>
-                 <li role="presentation"><a href="#">dinning hall</a></li>
+                 <li role="presentation"><a href="dinning">dinning</a></li>
       
                   </ul>
                      </div>
